@@ -1,0 +1,9 @@
+@import "tailwindcss";
+.active {
+  color:white !important;
+}
+
+.active::after {
+  width: 100%;
+  background-color:white;
+}

@@ -1,0 +1,17 @@
+COMMON_SKILLS = [
+    "python",
+    "django",
+    "flask",
+    "react",
+    "javascript",
+    "html",
+    "css",
+    "mysql",
+    "sql",
+    "docker",
+    "git",
+    "github",
+    "rest api",
+    "jwt",
+    "ci/cd",
+]
